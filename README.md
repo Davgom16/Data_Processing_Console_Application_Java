@@ -1,5 +1,6 @@
-Intro to Programming – First Test
+Data Processing Console Application (Java)
 
-The program reads a text file and presents a menu with four options. 
-Users choose an option and input a response. If the input is invalid, the program displays an error message and returns to the menu. 
-Otherwise, it executes the selected command.
+- Developed a Java console application that reads and processes numerical data from files
+- Implemented data validation to distinguish valid and invalid entries
+- Calculated statistical values such as average and maximum salary
+- Handled file I/O operations and exception management
