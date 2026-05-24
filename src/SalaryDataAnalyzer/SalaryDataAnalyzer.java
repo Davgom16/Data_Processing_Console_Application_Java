@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package lab_test_2025039;
+package SalaryDataAnalyzer;
 
 // import comands from java in order to read file and user's input
 
@@ -12,7 +12,7 @@ import java.io.FileReader;
  *
  * @author dav_g
  */
-public class LAB_TEST_2025039 {
+public class SalaryDataAnalyzer {
 
     /**
      * @param args the command line arguments
